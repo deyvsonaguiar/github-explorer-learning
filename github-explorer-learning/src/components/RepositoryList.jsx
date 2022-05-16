@@ -13,6 +13,8 @@ export function RepositoryList() {
             <h1>Lista de repositórios</h1>
             <ul>
                 <RepositoryItem repository={repository} />
+                <RepositoryItem repository={repository} />
+                <RepositoryItem repository={repository} />
             </ul>
         </section>
     )
